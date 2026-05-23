@@ -161,8 +161,6 @@ python app.py
 
 ---
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
